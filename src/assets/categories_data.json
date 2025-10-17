@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "category": "People & Body",
+    "slug": "people_body",
+    "image": "people.svg",
+    "color": "#FAE2D0",
+    "translations": {
+      "en": {
+        "title": "People & Body"
+      },
+      "hr": {
+        "title": "Ljudi i tijelo"
+      },
+      "fr": {
+        "title": "Les gens et le corps"
+      },
+      "es": {
+        "title": "Personas y cuerpo"
+      },
+      "de": {
+        "title": "Menschen und Körper"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "category": "Animals",
+    "slug": "animals",
+    "image": "animals.svg",
+    "color": "#D2F1D9",
+    "translations": {
+      "en": {
+        "title": "Animals"
+      },
+      "hr": {
+        "title": "Životinje"
+      },
+      "fr": {
+        "title": "Animaux"
+      },
+      "es": {
+        "title": "Animales"
+      },
+      "de": {
+        "title": "Tiere"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "category": "Food & Drinks",
+    "slug": "food_drinks",
+    "image": "food.svg",
+    "color": "#FBCBC8",
+    "translations": {
+      "en": {
+        "title": "Food & Drinks"
+      },
+      "hr": {
+        "title": "Hrana i piće"
+      },
+      "fr": {
+        "title": "Nourriture et boissons"
+      },
+      "es": {
+        "title": "Comida y bebida"
+      },
+      "de": {
+        "title": "Essen und Trinken"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "category": "Clothes",
+    "slug": "clothes",
+    "image": "clothes.svg",
+    "color": "#DEC3EE",
+    "translations": {
+      "en": {
+        "title": "Clothes"
+      },
+      "hr": {
+        "title": "Odjeća"
+      },
+      "fr": {
+        "title": "Vêtements"
+      },
+      "es": {
+        "title": "Ropa"
+      },
+      "de": {
+        "title": "Kleidung"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "category": "Home & Furniture",
+    "slug": "home_furniture",
+    "image": "home.svg",
+    "color": "#E0C8C0",
+    "translations": {
+      "en": {
+        "title": "Home & Furniture"
+      },
+      "hr": {
+        "title": "Dom i namještaj"
+      },
+      "fr": {
+        "title": "Maison et meubles"
+      },
+      "es": {
+        "title": "Hogar y muebles"
+      },
+      "de": {
+        "title": "Zuhause und Möbel"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "category": "Nature & Weather",
+    "slug": "nature_weather",
+    "image": "nature.svg",
+    "color": "#D0F3FD",
+    "translations": {
+      "en": {
+        "title": "Nature & Weather"
+      },
+      "hr": {
+        "title": "Priroda i vrijeme"
+      },
+      "fr": {
+        "title": "Nature et météo"
+      },
+      "es": {
+        "title": "Naturaleza y clima"
+      },
+      "de": {
+        "title": "Natur und Wetter"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "category": "Colors & Shapes",
+    "slug": "colors_shapes",
+    "image": "colors.svg",
+    "color": "#EBBEEF",
+    "translations": {
+      "en": {
+        "title": "Colors & Shapes"
+      },
+      "hr": {
+        "title": "Boje i oblici"
+      },
+      "fr": {
+        "title": "Couleurs et formes"
+      },
+      "es": {
+        "title": "Colores y formas"
+      },
+      "de": {
+        "title": "Farben und Formen"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "category": "Numbers & Counting",
+    "slug": "numbers_counting",
+    "image": "numbers.svg",
+    "color": "#eaffd1",
+    "translations": {
+      "en": {
+        "title": "Numbers & Counting"
+      },
+      "hr": {
+        "title": "Brojevi i brojanje"
+      },
+      "fr": {
+        "title": "Nombres et comptage"
+      },
+      "es": {
+        "title": "Números y conteo"
+      },
+      "de": {
+        "title": "Zahlen und Zählen"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "category": "Verbs",
+    "slug": "verbs",
+    "image": "verbs.svg",
+    "color": "#B3EAE6",
+    "translations": {
+      "en": {
+        "title": "Verbs"
+      },
+      "hr": {
+        "title": "Glagoli"
+      },
+      "fr": {
+        "title": "Verbes"
+      },
+      "es": {
+        "title": "Verbos"
+      },
+      "de": {
+        "title": "Verben"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "category": "Adjectives",
+    "slug": "adjectives",
+    "image": "adjectives.svg",
+    "color": "#FED8A3",
+    "translations": {
+      "en": {
+        "title": "Adjectives"
+      },
+      "hr": {
+        "title": "Pridjevi"
+      },
+      "fr": {
+        "title": "Adjectifs"
+      },
+      "es": {
+        "title": "Adjetivos"
+      },
+      "de": {
+        "title": "Adjektive"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "category": "Places & Transport",
+    "slug": "places_transport",
+    "image": "places.svg",
+    "color": "#F5DFF5",
+    "translations": {
+      "en": {
+        "title": "Places & Transport"
+      },
+      "hr": {
+        "title": "Mjesta i prijevoz"
+      },
+      "fr": {
+        "title": "Lieux et transports"
+      },
+      "es": {
+        "title": "Lugares y transporte"
+      },
+      "de": {
+        "title": "Orte und Verkehrsmittel"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "category": "Time & Daily Routine",
+    "slug": "time_daily_routine",
+    "image": "time.svg",
+    "color": "#C9D6DD",
+    "translations": {
+      "en": {
+        "title": "Time & Daily Routine"
+      },
+      "hr": {
+        "title": "Vrijeme i rutina"
+      },
+      "fr": {
+        "title": "Heure et routine quotidienne"
+      },
+      "es": {
+        "title": "Tiempo y rutina diaria"
+      },
+      "de": {
+        "title": "Zeit und Tagesablauf"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "category": "School & Learning",
+    "slug": "school_learning",
+    "image": "school.svg",
+    "color": "#FEEDB3",
+    "translations": {
+      "en": {
+        "title": "School & Learning"
+      },
+      "hr": {
+        "title": "Škola i učenje"
+      },
+      "fr": {
+        "title": "École et apprentissage"
+      },
+      "es": {
+        "title": "Escuela y aprendizaje"
+      },
+      "de": {
+        "title": "Schule und Lernen"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "category": "Actions / Everyday Phrases",
+    "slug": "actions_everyday_phrases",
+    "image": "actions.svg",
+    "color": "#E2E6FC",
+    "translations": {
+      "en": {
+        "title": "Actions & Everyday Phrases"
+      },
+      "hr": {
+        "title": "Radnje i svakodnevna fraze"
+      },
+      "fr": {
+        "title": "Actions et Phrases courantes"
+      },
+      "es": {
+        "title": "Acciones y Frases cotidianas"
+      },
+      "de": {
+        "title": "Handlungen und Alltägliche Ausdrücke"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "category": "Toys & Fun",
+    "slug": "toys_fun",
+    "image": "toys.svg",
+    "color": "#FFBFA7",
+    "translations": {
+      "en": {
+        "title": "Toys & Fun"
+      },
+      "hr": {
+        "title": "Igračke i zabava"
+      },
+      "fr": {
+        "title": "Jouets et divertissement"
+      },
+      "es": {
+        "title": "Juguetes y diversión"
+      },
+      "de": {
+        "title": "Spielzeug und Spaß"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "category": "Feelings & Personality",
+    "slug": "feelings_personality",
+    "image": "feelings.svg",
+    "color": "#FDDCE7",
+    "translations": {
+      "en": {
+        "title": "Feelings & Personality"
+      },
+      "hr": {
+        "title": "Osjećaji i osobnost"
+      },
+      "fr": {
+        "title": "Sentiments et personnalité"
+      },
+      "es": {
+        "title": "Sentimientos y personalidad"
+      },
+      "de": {
+        "title": "Gefühle und Persönlichkeit"
+      }
+    }
+  }
+]
