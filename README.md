@@ -7,7 +7,10 @@ Kids can tap on images to hear how each word is said and, for many, hear what th
 
 Perfect for young learners, Ziblo turns screen time into learning time — fun, interactive, and full of discovery.
 
+## Features
 
+- Vue 3 – reactive frontend framework  
+- Quasar Framework – UI components & layout  
 
 
 ## Demo
@@ -49,9 +52,6 @@ npm run format
 quasar build
 ```
     
-## Features
 
-- Vue 3 – reactive frontend framework  
-- Quasar Framework – UI components & layout  
 
 ![Logo](https://ziblo.world/assets/img/horizontal-logo.png)
