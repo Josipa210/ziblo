@@ -11,11 +11,16 @@ Perfect for young learners, Ziblo turns screen time into learning time — fun, 
 
 - Vue 3 – reactive frontend framework  
 - Quasar Framework – UI components & layout  
+- all images are made with vectorart.ai
+- all voiceover sounds are made with Speechloo by Blaster
 
 
 ## Demo
 
 https://ziblo.world/assets/img/en.mp4
+
+## Dribble shot
+https://dribbble.com/shots/26662077-Ziblo
 
 
 ## Install the dependencies
