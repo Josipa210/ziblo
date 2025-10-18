@@ -22,6 +22,8 @@ https://ziblo.world/assets/img/en.mp4
 ## Dribble shot
 https://dribbble.com/shots/26662077-Ziblo
 
+## Website and more info
+https://ziblo.world/en/home
 
 ## Install the dependencies
 ```bash
